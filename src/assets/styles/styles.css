@@ -1,0 +1,26 @@
+.control{
+    display: flex;
+    flex-direction: column;
+}
+.search{
+    width: 100%
+}
+.map{
+    height:800px;
+}
+.resultado{
+background-color: white;
+padding_: 2px;
+border: 1px solid grey;
+}
+
+.results{
+    padding: 2px;
+    
+}
+.filter{
+    height: 25px;
+}
+.texto{
+    margin-bottom: 0px;
+}
